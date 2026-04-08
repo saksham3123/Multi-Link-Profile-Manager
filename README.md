@@ -55,8 +55,8 @@ npm install
 3. Create `.env.local` file and add:
 
 ```env
-MONGODB_URI=your_mongodb_connection
-NEXTAUTH_SECRET=your_secret_key
+MONGODB_URI
+NEXTAUTH_SECRET
 ```
 
 4. Run the development server
